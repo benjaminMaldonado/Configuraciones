@@ -1,0 +1,10 @@
+neofetch
+python3
+tree
+git
+gitk
+neovim
+htop
+cmatrix
+ranger
+nautilus
