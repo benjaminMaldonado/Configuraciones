@@ -1,0 +1,13 @@
+neofetch
+neovim
+tree
+htop
+ranger
+cmatrix
+python-pip
+lm_sensors
+exa
+nodejs
+npm
+notepadqq
+figlet

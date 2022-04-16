@@ -1,0 +1,30 @@
+# Listado de instalaciones al momento de isntalar arch
+
+base
+base-devel
+linux
+linux-firmware
+networkmanager
+grub
+efibootmgr
+os-prober
+
+# Para neovim
+Vim Plug
+xclip
+xsel
+
+# Listado de instalaciones para el sistema
+
+xf86-input-synaptics
+xf86-input.libinput
+lightdm
+lightdm-gtk-greeter
+mesa
+xorg
+qtile
+rofi
+feh
+thunar
+xorg-xinit
+brightnessctl
